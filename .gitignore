@@ -2,3 +2,5 @@ x64
 externals
 Debug
 .vs
+Rendering_Framework.sdf
+Rendering_Framework.VC.db
